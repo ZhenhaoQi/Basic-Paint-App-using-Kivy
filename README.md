@@ -8,4 +8,6 @@ choosing any color for drawing
 drawing straight lines
 drawing rectangles
 Save canvas
+width select
+
 
